@@ -16,3 +16,12 @@ C:\Users\Sergiu Pintilei\Downloads\ShoppingCart\ShoppingCart\ShoppingCart\obj\De
 C:\Users\Sergiu Pintilei\Downloads\ShoppingCart\ShoppingCart\ShoppingCart\obj\Debug\netcoreapp1.1\ShoppingCart.AssemblyInfo.cs
 C:\Users\Sergiu Pintilei\Downloads\ShoppingCart\ShoppingCart\ShoppingCart\obj\Debug\netcoreapp1.1\ShoppingCart.dll
 C:\Users\Sergiu Pintilei\Downloads\ShoppingCart\ShoppingCart\ShoppingCart\obj\Debug\netcoreapp1.1\ShoppingCart.pdb
+C:\Workspace\Microservicii\coremicroservices\bin\Debug\netcoreapp1.1\ShoppingCart.deps.json
+C:\Workspace\Microservicii\coremicroservices\bin\Debug\netcoreapp1.1\ShoppingCart.runtimeconfig.json
+C:\Workspace\Microservicii\coremicroservices\bin\Debug\netcoreapp1.1\ShoppingCart.runtimeconfig.dev.json
+C:\Workspace\Microservicii\coremicroservices\bin\Debug\netcoreapp1.1\ShoppingCart.dll
+C:\Workspace\Microservicii\coremicroservices\bin\Debug\netcoreapp1.1\ShoppingCart.pdb
+C:\Workspace\Microservicii\coremicroservices\obj\Debug\netcoreapp1.1\ShoppingCart.csprojResolveAssemblyReference.cache
+C:\Workspace\Microservicii\coremicroservices\obj\Debug\netcoreapp1.1\ShoppingCart.AssemblyInfo.cs
+C:\Workspace\Microservicii\coremicroservices\obj\Debug\netcoreapp1.1\ShoppingCart.dll
+C:\Workspace\Microservicii\coremicroservices\obj\Debug\netcoreapp1.1\ShoppingCart.pdb

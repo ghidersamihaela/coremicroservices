@@ -17,7 +17,7 @@ namespace ShoppingCart
                 .UseIISIntegration()
                 .UseStartup<Startup>()
                 .UseApplicationInsights()
-                .Build();
+                .Build(); 
 
             host.Run();
         }
