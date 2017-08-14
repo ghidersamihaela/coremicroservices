@@ -1,0 +1,18 @@
+C:\Users\mghiders\documents\visual studio 2017\Projects\ShoppingCart\ShoppingCart\bin\Debug\netcoreapp1.1\ShoppingCart.deps.json
+C:\Users\mghiders\documents\visual studio 2017\Projects\ShoppingCart\ShoppingCart\bin\Debug\netcoreapp1.1\ShoppingCart.runtimeconfig.json
+C:\Users\mghiders\documents\visual studio 2017\Projects\ShoppingCart\ShoppingCart\bin\Debug\netcoreapp1.1\ShoppingCart.runtimeconfig.dev.json
+C:\Users\mghiders\documents\visual studio 2017\Projects\ShoppingCart\ShoppingCart\bin\Debug\netcoreapp1.1\ShoppingCart.dll
+C:\Users\mghiders\documents\visual studio 2017\Projects\ShoppingCart\ShoppingCart\bin\Debug\netcoreapp1.1\ShoppingCart.pdb
+C:\Users\mghiders\documents\visual studio 2017\Projects\ShoppingCart\ShoppingCart\obj\Debug\netcoreapp1.1\ShoppingCart.csprojResolveAssemblyReference.cache
+C:\Users\mghiders\documents\visual studio 2017\Projects\ShoppingCart\ShoppingCart\obj\Debug\netcoreapp1.1\ShoppingCart.AssemblyInfo.cs
+C:\Users\mghiders\documents\visual studio 2017\Projects\ShoppingCart\ShoppingCart\obj\Debug\netcoreapp1.1\ShoppingCart.dll
+C:\Users\mghiders\documents\visual studio 2017\Projects\ShoppingCart\ShoppingCart\obj\Debug\netcoreapp1.1\ShoppingCart.pdb
+C:\Users\Sergiu Pintilei\Downloads\ShoppingCart\ShoppingCart\ShoppingCart\bin\Debug\netcoreapp1.1\ShoppingCart.deps.json
+C:\Users\Sergiu Pintilei\Downloads\ShoppingCart\ShoppingCart\ShoppingCart\bin\Debug\netcoreapp1.1\ShoppingCart.runtimeconfig.json
+C:\Users\Sergiu Pintilei\Downloads\ShoppingCart\ShoppingCart\ShoppingCart\bin\Debug\netcoreapp1.1\ShoppingCart.runtimeconfig.dev.json
+C:\Users\Sergiu Pintilei\Downloads\ShoppingCart\ShoppingCart\ShoppingCart\bin\Debug\netcoreapp1.1\ShoppingCart.dll
+C:\Users\Sergiu Pintilei\Downloads\ShoppingCart\ShoppingCart\ShoppingCart\bin\Debug\netcoreapp1.1\ShoppingCart.pdb
+C:\Users\Sergiu Pintilei\Downloads\ShoppingCart\ShoppingCart\ShoppingCart\obj\Debug\netcoreapp1.1\ShoppingCart.csprojResolveAssemblyReference.cache
+C:\Users\Sergiu Pintilei\Downloads\ShoppingCart\ShoppingCart\ShoppingCart\obj\Debug\netcoreapp1.1\ShoppingCart.AssemblyInfo.cs
+C:\Users\Sergiu Pintilei\Downloads\ShoppingCart\ShoppingCart\ShoppingCart\obj\Debug\netcoreapp1.1\ShoppingCart.dll
+C:\Users\Sergiu Pintilei\Downloads\ShoppingCart\ShoppingCart\ShoppingCart\obj\Debug\netcoreapp1.1\ShoppingCart.pdb
