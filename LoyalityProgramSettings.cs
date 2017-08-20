@@ -1,4 +1,4 @@
 public class LoyalityProgramSettings
 {
-    public string[] Interests{get;set;}
+    public string[] Interests { get; set; }
 }
